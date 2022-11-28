@@ -22,4 +22,4 @@ int getNumberFromUser(string message)
 int numberA = getNumberFromUser("Введите число A");
 int numberB = getNumberFromUser("Введите число B");
 int extent = extentOfNumbers(numberA, numberB);
-Console.WriteLine($"При возведении числа {numberA} в натураотную степень из числа {numberB} получаем результат {extent}");
+Console.WriteLine($"При возведении числа {numberA} в натуральную степень из числа {numberB} получаем результат {extent}");
